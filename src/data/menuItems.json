@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "label": "Projects",
+      "link": "#projects"
+    },
+    {
+      "id": "2",
+      "label": "About Me",
+      "link": "#about-me"
+    },
+    {
+      "id": "3",
+      "label": "Contact Me",
+      "link": "#contact-me"
+    }
+  ]
+}
